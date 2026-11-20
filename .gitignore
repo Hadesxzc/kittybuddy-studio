@@ -1,0 +1,18 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# PlatformIO
+firmware/.pio/
+firmware/.vscode/
+firmware/compile_commands.json
+
+# Built web app (regenerate with build-frontend.ps1)
+firmware/data/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
